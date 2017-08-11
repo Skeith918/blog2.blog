@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Test
-permalink: /about/
+permalink: /test/
 ---
 test de page !
